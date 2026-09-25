@@ -1,14 +1,14 @@
 <!--
-  GitHub Profile README for Sri Vardhan Bugga
+  GitHub Profile README for Sri Vardhan
   Paste this into the README.md of the special profile repo named: srivardhandhora
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:0EA5E9,100:14B8A6&text=Sri%20Vardhan%20Bugga&fontColor=F8FAFC&fontSize=46&fontAlignY=38&desc=AI-Focused%20Data%20Engineer%20%7C%20AWS%20%7C%20PySpark%20%7C%20ML%20Pipelines&descAlignY=58&descSize=16" alt="Sri Vardhan Bugga profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:0EA5E9,100:14B8A6&text=Sri%20Vardhan%20&fontColor=F8FAFC&fontSize=46&fontAlignY=38&desc=AI-Focused%20Data%20Engineer%20%7C%20AWS%20%7C%20PySpark%20%7C%20ML%20Pipelines&descAlignY=58&descSize=16" alt="Sri Vardhan profile banner" width="100%" />
 
 <a href="https://github.com/srivardhandhora"><img src="https://komarev.com/ghpvc/?username=srivardhandhora&style=for-the-badge&color=14b8a6&label=PROFILE+VIEWS" alt="Profile views" /></a>
-<a href="https://srivardhandhora.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-live-0f172a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://bsv-git.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-live-0f172a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/srivardhandhora"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:srivardhandhora@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -19,68 +19,30 @@
 </div>
 
 ---
+## Profile
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+I’m **Sri Vardhan**. I turn raw, inconsistent data into reliable analytics and AI-ready outputs, working across **Python, SQL, PySpark, and AWS**. I care about the details that make systems useful: clear data models, visible failures, reproducible workflows, and outputs people can trust. 
+I build data systems that turn raw, inconsistent data into trusted analytics and AI-ready outputs. My work centers on reliable pipelines, cloud data platforms, data quality, retrieval workflows, and practical ML enablement.
 
-<h3>Designed Bio Notes</h3>
 
-<pre><code class="language-yaml">name: Sri Vardhan Bugga
-role: AI-Focused Data Engineer
-base: United States
-focus:
-  - scalable data lakes
-  - PySpark and AWS ETL pipelines
-  - ML-ready feature layers
-  - RAG and AI workflow prototypes
-current:
-  building: clinical data and ML enablement platforms
-  optimizing: batch pipelines, data quality, governance
-  learning: stronger MLOps patterns and production AI systems
-style: calm dashboards, clean architecture, measurable impact</code></pre>
+| Data Engineering | AI & ML Enablement |
+| --- | --- |
+| Batch and analytical pipelines with Python, SQL, PySpark, S3, Glue, Redshift, and Airflow | Retrieval workflows, embeddings, feature-ready datasets, and model-facing data layers |
+| **Cloud & Orchestration** | **Analytics & Quality** |
+| AWS data services, workflow scheduling, containerized development, monitoring, and reproducible execution | Data validation, reconciliation, reporting marts, Tableau/Power BI-ready outputs, and explainable metrics |
 
-    </td>
-    <td width="42%" valign="top">
 
-<h3>Status Board</h3>
+## Engineering Approach
 
-<table>
-  <tr><th>Signal</th><th>Snapshot</th></tr>
-  <tr><td>Mode</td><td>Building production data systems</td></tr>
-  <tr><td>Stack</td><td>Python, PySpark, AWS, Airflow</td></tr>
-  <tr><td>Data scale</td><td>2TB+ healthcare, 10TB+ finance</td></tr>
-  <tr><td>Favorite work</td><td>Pipelines that make models useful</td></tr>
-  <tr><td>Open to</td><td>Data engineering, AI platform, cloud roles</td></tr>
-</table>
-
-    </td>
-  </tr>
-</table>
+| Principle | Practical meaning |
+| --- | --- |
+| Reliable before clever | Pipelines should fail visibly, validate assumptions, and be repeatable. |
+| Preserve evidence | Invalid records should be quarantined or explained instead of silently discarded. |
+| Design for downstream users | Data models, metrics, and retrieval outputs should be understandable and auditable. |
+| Keep AI grounded | Retrieval and model workflows should use controlled context, source-aware outputs, and explicit evaluation. |
+| Optimize the whole system | Cost, maintainability, observability, and delivery speed matter alongside raw performance. |
 
 ---
-
-### Dashboard
-
-| Workstream | What I Ship | Tools |
-| --- | --- | --- |
-| Data Platforms | S3 lakes, Redshift marts, Glue jobs, quality checks | AWS, PySpark, SQL |
-| Orchestration | Reliable batch workflows and monitored dependencies | Airflow, Docker, CloudWatch |
-| AI Enablement | Feature pipelines, embeddings, RAG prototypes | Python, LangChain, ChromaDB |
-| Analytics | Clean models and decision-ready summaries | Tableau, Pandas, Scikit-learn |
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srivardhandhora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" height="165" alt="Sri's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=srivardhandhora&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=F59E0B&currStreakLabel=38BDF8" height="165" alt="Sri's GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivardhandhora&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=CBD5E1" height="165" alt="Sri's top languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srivardhandhora&theme=tokyonight&utcOffset=-5" height="165" alt="Sri's productive time graph" />
-</div>
-
----
-
 ### Languages And Tools
 
 <div align="center">
@@ -104,96 +66,173 @@ style: calm dashboards, clean architecture, measurable impact</code></pre>
   <img src="https://skillicons.dev/icons?i=python,aws,docker,postgres,git,github,vscode,linux,fastapi,tensorflow&theme=dark" alt="Skill icons" />
 </div>
 
+
 ---
 
-### Featured Work Notes
+<div align="center">
+  <h2>Selected Work</h2>
+  <p>Data platforms · Analytics · Applied AI</p>
+  <p><sub>INDUSTRY WORK &nbsp; / &nbsp; PERSONAL PROJECTS</sub></p>
+</div>
+
+<br>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="33%" valign="top">
 
-<h4>Clinical Data + ML Platform</h4>
+<h3>☁️ Healthcare Data Platform</h3>
+<p><sub>INDUSTRY WORK · DATA ENGINEERING</sub></p>
 
-<p>Production-oriented healthcare data platform with S3 storage, Glue ETL, PySpark transformations, Redshift serving layers, and ML-ready datasets.</p>
+<p>From clinical data to analytics and ML-ready datasets.</p>
 
-<p><code>AWS</code> <code>PySpark</code> <code>Glue</code> <code>Redshift</code> <code>Airflow</code></p>
+<p>S3 storage, Glue ETL, and PySpark transformations feeding Redshift serving layers.</p>
 
-    </td>
-    <td width="50%" valign="top">
+<p><strong>Pipeline architecture</strong></p>
+<pre>S3
+ ↓
+Glue + PySpark
+ ↓
+Redshift
+ ↓
+Analytics / ML</pre>
 
-<h4>Enterprise Risk Data Modernization</h4>
+<p>
+<code>AWS</code>
+<code>PySpark</code>
+<code>Glue</code>
+<code>Redshift</code>
+<code>Airflow</code>
+</p>
 
-<p>Financial data migration and analytics modernization for high-volume transaction pipelines, regulatory reporting, and faster query performance.</p>
+<hr>
 
-<p><code>Python</code> <code>SQL</code> <code>Spark</code> <code>Airflow</code> <code>Redshift</code></p>
+<h3>🎙️ Local Voice Assistant</h3>
+<p><sub>PERSONAL PROJECT · LOCAL AI</sub></p>
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+<p>A voice interface powered by local GPT4All responses.</p>
 
-<h4>Predictive Sales Forecasting</h4>
+<p>Modular speech-to-text and text-to-speech scaffolding with JSON interaction history.</p>
 
-<p>Time-series forecasting workflow with cleaned historical datasets, regression experiments, and interactive Tableau reporting for planning decisions.</p>
+<p>
+<code>Python</code>
+<code>GPT4All</code>
+<code>STT / TTS</code>
+</p>
 
-<p><code>PySpark</code> <code>Pandas</code> <code>Scikit-learn</code> <code>Tableau</code></p>
+<p>
+<a href="https://github.com/bsv-git/Voice-assistant"><strong>Explore project ↗</strong></a>
+</p>
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="34%" valign="top">
 
-<h4>RAG Knowledge Assistant</h4>
+<h3>🏦 Enterprise Risk Data</h3>
+<p><sub>INDUSTRY WORK · FINANCIAL ANALYTICS</sub></p>
 
-<p>Retrieval-augmented generation prototype with document chunking, embeddings, semantic search, and grounded answer generation.</p>
+<p>High-volume transactions. Clearer reporting.</p>
 
-<p><code>LangChain</code> <code>ChromaDB</code> <code>Python</code> <code>Embeddings</code></p>
+<p>Financial data migration and analytics modernization supporting regulatory reporting and query performance.</p>
 
-    </td>
-  </tr>
+<p>
+<code>Python</code>
+<code>SQL</code>
+<code>Spark</code>
+<code>Airflow</code>
+<code>Redshift</code>
+</p>
+
+<hr>
+
+<h3>🛍️ Retail Analytics &amp; Retrieval</h3>
+<p><sub>PERSONAL PROJECT · ANALYTICS + AI</sub></p>
+
+<p>Messy retail data transformed into reporting marts and source-aware document search.</p>
+
+<br>
+
+<p><strong>01 / Preserve evidence</strong><br>
+Quarantine invalid records.</p>
+
+<p><strong>02 / Prepare analytics</strong><br>
+Build validated SQLite marts and Power BI-ready exports.</p>
+
+<p><strong>03 / Retrieve context</strong><br>
+Search approved documents with source-aware results.</p>
+
+<br>
+
+<p>
+<code>Python</code>
+<code>Pandas</code>
+<code>SQL</code>
+<code>SQLite</code>
+<code>Power BI</code>
+<code>Streamlit</code>
+</p>
+
+<p>
+<a href="https://github.com/bsv-git/retail-analytics-ai-project"><strong>Explore project ↗</strong></a>
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>📈 Predictive Sales Forecasting</h3>
+<p><sub>FEATURED WORK · PREDICTIVE ANALYTICS</sub></p>
+
+<p>Historical patterns that inform future planning.</p>
+
+<p>A forecasting workflow connecting cleaned datasets, regression experiments, and interactive Tableau reporting.</p>
+
+<br>
+
+<p><strong>Prepare.</strong><br>
+Clean historical sales data.</p>
+
+<p><strong>Experiment.</strong><br>
+Explore regression models.</p>
+
+<p><strong>Communicate.</strong><br>
+Visualize results for planning.</p>
+
+<p>
+<code>PySpark</code>
+<code>Pandas</code>
+<code>Scikit-learn</code>
+<code>Tableau</code>
+</p>
+
+<hr>
+
+<h3>⚡ Amazon Reviews</h3>
+<p><sub>PERSONAL PROJECT · DEVELOPER WORKFLOW</sub></p>
+
+<p>Local PySpark development with AWS Glue workflow patterns.</p>
+
+<p>Iterate and debug transformations locally before cloud execution.</p>
+
+<p>
+<code>Python</code>
+<code>PySpark</code>
+<code>AWS Glue patterns</code>
+</p>
+
+<p>
+<a href="https://github.com/bsv-git/A-reviews"><strong>Explore project ↗</strong></a>
+</p>
+
+</td>
+</tr>
 </table>
 
----
-
-### Graph Summaries
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srivardhandhora&theme=tokyonight" alt="GitHub profile contribution summary" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivardhandhora&theme=react-dark&hide_border=true&bg_color=0D1117&color=CBD5E1&line=14B8A6&point=38BDF8&area=true&area_color=14B8A6" alt="GitHub activity graph" width="100%" />
-</div>
+<br>
 
 ---
 
-### Interactive Corners
+---
 
-<details>
-<summary><b>What I care about in engineering</b></summary>
-
-- Data contracts that make downstream work calmer.
-- Pipelines that are observable before they are clever.
-- Cloud architecture that balances cost, speed, and maintainability.
-- AI systems grounded in clean retrieval, evaluation, and useful context.
-
-</details>
-
-<details>
-<summary><b>How I describe my work in one sentence</b></summary>
-
-I design data systems that move from raw events to trusted analytics and model-ready intelligence without losing reliability along the way.
-
-</details>
-
-<details>
-<summary><b>Currently exploring</b></summary>
-
-- Better patterns for RAG evaluation and retrieval quality.
-- Event-driven data pipelines with stronger monitoring.
-- Feature stores and ML platform foundations.
-- Cleaner portfolio storytelling for technical work.
-
-</details>
-
+<p align="center"><strong>Let’s build something dependable.</strong></p>
 ---
 
 ### Connect With Me
@@ -207,13 +246,10 @@ I design data systems that move from raw events to trusted analytics and model-r
 
 </div>
 
-```text
-available_for = ["data engineering roles", "AI platform work", "cloud pipeline projects", "good technical conversations"]
-reply_style = "clear, practical, and architecture-minded"
-```
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,45:0EA5E9,100:0F172A" alt="Footer wave" width="100%" />
 </div>
+
+<p align="center">
+  <img src="assets/sri-vardhan-banner.gif" alt="Sri Vardhan — animated data pipeline with a floating robot companion" width="100%" />
+</p>
